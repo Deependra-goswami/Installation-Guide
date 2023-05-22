@@ -1,0 +1,7 @@
+Docker for Ubuntu: https://docs.docker.com/install/linux/docker-ce/ubuntu/
+Docker for CentOS: https://docs.docker.com/install/linux/docker-ce/centos/
+In case you run into it, here's the link for solution if you run into the 'denied when trying to connect to the docker daemon socket' error: https://www.digitalocean.com/community/questions/how-to-fix-docker-got-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket
+Kitematic download: https://github.com/docker/kitematic/releases
+Run Kitematic from inside Docker:
+https://www.reddit.com/r/docker/comments/3g6fnp/use_kitematic_in_every_linux/
+https://hub.docker.com/r/jonadev95/kitematic-docker/
