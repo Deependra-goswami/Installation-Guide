@@ -1,0 +1,5 @@
+Docker For Windows Notes
+Make sure to enable virtualisation support. Details can be found in the Docker Toolbox Instructions link to check if it's already enabled and how to turn it on if it's not.
+Docker Desktop (Windows 10 Pro and Enterprise): https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+Docker Toolbox Instructions for older versions of Windows: https://docs.docker.com/toolbox/toolbox_install_windows/
+Docker Toolbox releases: https://github.com/docker/toolbox/releases
